@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\EditorTextos\bin\Debug\net7.0\EditorTextos.exe
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\EditorTextos\bin\Debug\net7.0\EditorTextos.deps.json
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\EditorTextos\bin\Debug\net7.0\EditorTextos.runtimeconfig.json
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\EditorTextos\bin\Debug\net7.0\EditorTextos.dll
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\EditorTextos\bin\Debug\net7.0\EditorTextos.pdb
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\EditorTextos\obj\Debug\net7.0\EditorTextos.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\EditorTextos\obj\Debug\net7.0\EditorTextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\EditorTextos\obj\Debug\net7.0\EditorTextos.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\EditorTextos\obj\Debug\net7.0\EditorTextos.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\EditorTextos\obj\Debug\net7.0\EditorTextos.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\EditorTextos\obj\Debug\net7.0\EditorTextos.dll
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\EditorTextos\obj\Debug\net7.0\refint\EditorTextos.dll
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\EditorTextos\obj\Debug\net7.0\EditorTextos.pdb
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\EditorTextos\obj\Debug\net7.0\EditorTextos.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Documentos\Projetos\CSharp\Fundamentos\EditorTextos\obj\Debug\net7.0\ref\EditorTextos.dll

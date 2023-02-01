@@ -55,7 +55,16 @@ namespace EditorTextos
 
         private static void Abrir()
         {
-           
+           System.Console.WriteLine("Qual o caminho e nome do arquivo desejado?");
+           var path = Console.ReadLine();
+           using(var file = new StreamReader(path)){
+                string texto = file.ReadToEnd();
+                System.Console.WriteLine(texto);
+           }
+
+           System.Console.WriteLine("");
+           Console.ReadLine();
+           Menu();
         }
 
         private static void Salvar(string text){
@@ -66,7 +75,7 @@ namespace EditorTextos
             }
 
             Console.WriteLine($"Arquivo foi salvo com sucesso nesse endereço {path}!");
-            Console.ReadLine();
+            Thread.Sleep(3000);
             Menu();
         }
     }
